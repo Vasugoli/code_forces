@@ -15,6 +15,7 @@ string convert(string &st) {
     }
     return ans;
 }
+
 int main() {
     string s;
     string t;
